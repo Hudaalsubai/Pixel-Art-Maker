@@ -1,5 +1,7 @@
 # Pixel Art Maker Project
 
+Front-End Development Track course 
+
 ## Table of Contents
 
 * [Instructions](#instructions)
